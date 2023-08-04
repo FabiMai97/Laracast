@@ -1,0 +1,12 @@
+git init
+--> initialiert das git repository
+
+git add *
+--> fügt alle dateien dem git hinzu
+
+git commit -m '[text]'
+-->
+
+git log
+-->zeigt einem den verlauf an
+
